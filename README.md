@@ -67,7 +67,7 @@ Each selected fund contains approximately **one year of historical NAV data**.
 
 ### Fund Details
 
-![Fund Details](assets/fund-detail.png)
+![Fund Details](assets/fund-details.png)
 
 
 ### Fund Comparison
